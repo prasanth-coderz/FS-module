@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "Name": "Laptop",
+            "MRP_amount": 50000,
+            "Discount_amount": 45000,
+            "start_date": "2024-04-05",
+            "end_date": "2024-04-20",
+            "today_date": "2024-04-09"
+        },
+        {
+            "Name": "Smart TV",
+            "MRP_amount": 40000,
+            "Discount_amount": 30000,
+            "start_date": "2024-04-01",
+            "end_date": "2024-04-21",
+            "today_date": "2024-05-01"
+        },
+        {
+            "Name": "Refrigerator",
+            "MRP_amount": 30000,
+            "Discount_amount": 25000,
+            "start_date": "2024-04-15",
+            "end_date": "2024-04-22",
+            "today_date": "2024-04-17"
+        },
+        {
+            "Name": "Air Conditioner",
+            "MRP_amount": 35000,
+            "Discount_amount": 29000,
+            "start_date": "2024-04-05",
+            "end_date": "2024-04-23",
+            "today_date": "2024-04-01"
+        },
+        {
+            "Name": "Washing Machine",
+            "MRP_amount": 25000,
+            "Discount_amount": 22000,
+            "start_date": "2024-04-15",
+            "end_date": "2024-04-24",
+            "today_date": "2024-04-19"
+        },
+        {
+            "Name": "Microwave Oven",
+            "MRP_amount": 10000,
+            "Discount_amount": 8000,
+            "start_date": "2024-04-15",
+            "end_date": "2024-04-25",
+            "today_date": "2024-04-01"
+        },
+        {
+            "Name": "Headphones",
+            "MRP_amount": 5000,
+            "Discount_amount": 3000,
+            "start_date": "2024-04-04",
+            "end_date": "2024-04-26",
+            "today_date": "2024-04-01"
+        },
+        {
+            "Name": "Camera",
+            "MRP_amount": 20000,
+            "Discount_amount": 17900,
+            "start_date": "2024-04-15",
+            "end_date": "2024-04-27",
+            "today_date": "2024-04-01"
+        },
+        {
+            "Name": "Gaming Console",
+            "MRP_amount": 30000,
+            "Discount_amount": 25000,
+            "start_date": "2024-04-15",
+            "end_date": "2024-04-28",
+            "today_date": "2024-04-01"
+        },
+        {
+            "Name": "Bluetooth Speaker",
+            "MRP_amount": 5000,
+            "Discount_amount": 4000,
+            "start_date": "2024-04-15",
+            "end_date": "2024-04-29",
+            "today_date": "2024-04-01"
+        }
+    ]
+}
